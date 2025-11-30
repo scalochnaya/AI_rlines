@@ -1,0 +1,11 @@
+ultralytics>=8.2.0
+opencv-python>=4.10.0
+psycopg2-binary>=2.9.9
+streamlit>=1.32.0
+pandas>=2.2.0
+plotly>=5.18.0
+numpy>=1.26.0
+supervision>=0.23.0
+torch>=2.0.0
+torchvision>=0.15.0
+pytesseract>=0.3.13
